@@ -1,0 +1,4 @@
+ov9655.c:574:6:ov9655_Init	24	static
+ov9655.c:635:6:ov9655_Config	104	static
+ov9655.c:684:10:ov9655_ReadID	16	static
+ov9655.c:702:17:ov9655_ConvertValue	24	static

@@ -1,0 +1,16 @@
+ft3x67.c:131:6:ft3x67_Init	16	static
+ft3x67.c:143:6:ft3x67_Reset	16	static
+ft3x67.c:155:10:ft3x67_ReadID	16	static
+ft3x67.c:169:6:ft3x67_TS_Start	16	static
+ft3x67.c:186:9:ft3x67_TS_DetectTouch	24	static
+ft3x67.c:218:6:ft3x67_TS_GetXY	32	static
+ft3x67.c:259:6:ft3x67_TS_EnableIT	16	static
+ft3x67.c:271:6:ft3x67_TS_DisableIT	16	static
+ft3x67.c:285:9:ft3x67_TS_ITStatus	16	static
+ft3x67.c:298:6:ft3x67_TS_ClearIT	16	static
+ft3x67.c:310:6:ft3x67_TS_GestureConfig	16	static
+ft3x67.c:332:6:ft3x67_TS_GetGestureID	24	static
+ft3x67.c:356:6:ft3x67_TS_GetTouchInfo	32	static
+ft3x67.c:405:16:ft3x67_Get_I2C_InitializedStatus	4	static
+ft3x67.c:415:13:ft3x67_I2C_InitializeIfRequired	8	static
+ft3x67.c:432:17:ft3x67_TS_Configure	24	static
